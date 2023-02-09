@@ -1,6 +1,6 @@
 # industrial-safety-kit-detection-yolov8
-<hr>
-![img2](https://user-images.githubusercontent.com/109650053/217835793-4ab581fa-c4cd-4e59-b34b-0af84998816a.jpg)
+
+![img2](https://user-images.githubusercontent.com/109650053/217836795-dfd9a2a2-92d9-4cef-a7ce-1664f42b558c.jpg)
 
 <hr>
 
